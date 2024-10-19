@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://roliusa.github.io/sitemap.xml
